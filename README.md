@@ -4,8 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Screenshots
 
-![](/images/1.png)
-![](/images/2.png)
+Homepage            |  Sidebar
+:-------------------------:|:-------------------------:
+![](/images/1.png)  |  ![](/images/2.png)
 
 ## Get API key
 
